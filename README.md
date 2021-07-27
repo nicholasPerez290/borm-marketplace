@@ -42,4 +42,6 @@
 
 ## videos 
 
-[](https://drive.google.com/file/d/1wEXK4GQzQ4BrRy-PmVGBFOaLWa5dZafU/view)
+[setting up mySQL database and server](https://drive.google.com/file/d/1ojjYfUA8CUczz4KC7iLtEErp0ptDMZtC/view)
+
+[routes being tested](https://drive.google.com/file/d/1wEXK4GQzQ4BrRy-PmVGBFOaLWa5dZafU/view)
