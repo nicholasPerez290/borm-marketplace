@@ -25,12 +25,12 @@
 ```
 * To add a new Product...
 ```
-[{
+{
     "product_name": "Basket",
       "price": 20.00,
       "stock": 3,
       "tagIds": [3, 2, 5]
-}]
+}
 ```
 * To add a new Tag
 ```
@@ -38,4 +38,8 @@
     "tag_name": "tag"
 }]
 ```
-* Responses will ne returned in json format
+* Responses will be returned in json format
+
+## videos 
+
+[](https://drive.google.com/file/d/1wEXK4GQzQ4BrRy-PmVGBFOaLWa5dZafU/view)
